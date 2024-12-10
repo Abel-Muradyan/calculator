@@ -1,0 +1,55 @@
+
+body{
+    background-color: rgb(61, 60, 60);
+}
+
+.Table1 {
+
+    width: 20%;
+    margin: 100px auto;
+    padding: 30px;
+    background-color:rgb(39, 39, 39);
+    border-radius: 10px;
+}
+
+
+input[type="submit"]{
+    border: 0;
+    outline: 0;
+    height:80px ;
+    width: 80px;
+    border-radius: 50%;
+}
+
+input[type="text"]{
+    text-align: right;
+    color: rgb(0, 0, 0);
+    border: 0;
+    outline: 0;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: transparent;
+    background-color: aliceblue;
+
+}
+   
+ .tr1{
+    width: 100px;
+}
+
+
+
+
+
+
+.guyn{
+    background-color: rgb(255, 255, 255);
+}
+ 
+
+
+.inp2{
+    background-color: black;
+    color: aliceblue;
+}
